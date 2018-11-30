@@ -1,0 +1,115 @@
+include::conf.adoc[]
+
+[%nonfacing]
+## {MISSION_NAME}
+{MISSION_ID}
+
+*Entre les soussignés :*
+
+La société *{PRESTATAIRE_NAME}*
+{PRESTATAIRE_STATUS} au capital de {PRESTATAIRE_CAPITAL} euros SIRET {PRESTATAIRE_SIRET} R.C.S.
+{PRESTATAIRE_RCS} Domiciliée {PRESTATAIRE_ADDRESS}
+représentée par Monsieur {PRESTATAIRE_CONTACT_NAME}, Gérant,
+
+ci-après dénommée "le Prestataire", 
+
+D’une part,
+
+Et 
+
+
+La société *{CLIENT_NAME}*
+
+{CLIENT_STATUS} au capital de {CLIENT_CAPITAL} €
+SIRET {CLIENT_SIRET}, domiciliée {CLIENT_ADDRESS},
+représentée par {CLIENT_CONTACT}; ci-après dénommée "le client".
+
+D'autre part
+
+il est défini et convenu ce qui suit :
+
+<<< 
+
+## Article 1 - OBJET DU CONTRAT 
+
+Aux termes du présent contrat, le Client confie au Prestataire les prestations décrites en *annexe 1*, que le Prestataire s’engage à réaliser pour le compte du Client. Ces prestations, dénommées ci-après "Prestations", seront soumises aux conditions ci-après. 
+
+## Article 2 - MODALITÉS D'EXÉCUTION 
+
+Le Prestataire, ayant été choisi du fait de ses compétences, s’engage à réaliser lui- même la prestation définie en *annexe 1*. Pour les besoins de l'exécution du contrat, le Client s'engage à lui remettre tous les documents et informations nécessaires à la réalisation de la prestation. 
+Durant le travail, le Prestataire s’engage à se conformer au règlement intérieur, et sera tenu de respecter les consignes d'hygiène et de sécurité en vigueur. 
+
+## Article 3 - OBLIGATIONS SOCIALES 
+
+Conformément aux articles L 324-14 et suivants et R 324-2 et suivants du Code du Travail, relatifs au travail clandestin, le Prestataire certifie qu'il respecte strictement la réglementation, qu'il est à jour des paiements des cotisations sociales. 
+
+## Article 4 – RESPONSABILITÉ 
+
+La responsabilité du Prestataire ne pourra être mise en cause qu’en cas de manquement à ses obligations de moyens. 
+
+## Article 5 - PROPRIÉTÉ 
+
+Le Prestataire s’engage à respecter l’ensemble des clauses de propriété dans la mesure où le Client lui communique ces clauses. 
+
+## Article 6 - DURÉE 
+
+Les dates d’entrée en vigueur du contrat et sa durée sont indiquées en *annexe 1*. A la fin du Contrat, quelle qu'en soit la raison, le Prestataire s'engage, à retourner au Client tous les résultats, tous les supports ayant concouru à la prestation, de même que toute information sous forme écrite remise par le Client, dans la mesure du respect des clauses contractuelles prévues avec le Client. Le Prestataire s'engage, à ne pas en avoir conservé copie et à ne pas les utiliser pour son usage personnel. 
+
+## Article 7 – CONFIDENTIALITÉ - SECRET PROFESSIONNEL 
+
+Le Client donnera au Prestataire accès à tous les éléments d'informations nécessaires à l'exécution de sa mission. Le Client indique qu'il est impératif et fondamental d'éviter que des tiers, puissent accéder aux dites informations et savoir-faire. Il en est de même en ce qui concerne les résultats des travaux réalisés par le Prestataire. 
+En conséquence, le Prestataire s'engage à observer la confidentialité la plus totale en ce qui concerne le contenu de la mission et toutes les informations ainsi que tous les documents que le Client lui aura communiqués. 
+
+## Article 8 - CONDITIONS FINANCIÈRES 
+
+Le prix dû par le client en rémunération des prestations prévues aux présentes est fixé en *annexe 1*. 
+La facturation s’effectuera à réception de facture. Le paiement aura lieu par virement. 
+
+## Article 9 – RÉSILIATION - PRÉAVIS 
+Le Prestataire et le Client pourront mettre fin par anticipation au présent contrat, moyennant un préavis de un mois et l’envoi d’une lettre recommandée avec AR, les comptes étant liquidés de part et d’autre au jour de l’expiration du délai de préavis et en fonction du degré d’avancement de la mission. 
+
+## Article 10 - LITIGE 
+
+Tout litige ou différend relatif à l'interprétation ou à l'exécution du Contrat et qui ne pourrait qu’être résolu à l'amiable sera soumis aux tribunaux dont dépend le siège social du prestataire, seule juridiction compétente, même en cas de pluralité des défendeurs. 
+
+
+## Article 11 - ANNEXE
+
+L’*annexe 1* fait partie intégrante du présent contrat
+
+Fait en deux exemplaires originaux  
+
+A {FAIT_A}, le {FAIT_LE}
+
+[grid="none", frame="none", header="none"]
+|===
+|*Pour {CLIENT_NAME}* | *Pour {PRESTATAIRE_NAME}*
+| {CLIENT_CONTACT}, Président | {PRESTATAIRE_CONTACT_NAME}
+|===
+
+<<<
+  
+## ANNEXE 1
+CONDITIONS PARTICULIERES 
+
+### 1. DÉFINITION DE LA MISSION
+
+{MISSION_DESCRIPTION}
+
+### 2. PRESTATAIRE
+
+{PRESTATAIRE_CONTACT_NAME}, société {PRESTATAIRE_NAME}
+
+### 3. LIEU D'EXÉCUTION DE LA PRESTATION
+
+Dans les locaux du prestataire ou tout espace de co-working sur Nantes et son agglomération convenu avec le client. 
+
+### 4. CONDITIONS FINANCIÈRES 
+
+La prestation sera facturée au temps passé sur la base d'un relevé d'activité détaillé approuvé par le client. Le tarif journalier forfaitaire est de {MISSION_TARIF} Euros Hors Taxes. 
+Ce tarif inclut les frais de déplacements que le Prestataire doit payer pour se rendre sur le lieu d’exécution de la prestation indiqué au paragraphe 3 de l’*annexe 1*
+Les frais supplémentaires dus à des déplacements nécessaires à l’exécution de la mission, seront facturés sur justificatif au client. 
+
+### 5. DÉLAIS ET DURÉE 
+
+La date de début de la prestation est le {MISSION_DEBUT} et la date de fin le {MISSION_FIN}. La durée initiale du contrat pourra être prolongée par avenant au présent contrat.

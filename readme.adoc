@@ -1,0 +1,19 @@
+= Contract Generator
+
+== Installation
+
+### Homebrew (macOS)
+```
+$ brew install asciidoctor
+$ gem install asciidoctor-pdf --pre
+```
+
+### Other OS
+
+link:https://asciidoctor.org/#installation[follow the instruction]
+
+## Run the Application
+
+```
+$ asciidoctor-pdf -a pdf-style=theme.yml index.adoc
+```
